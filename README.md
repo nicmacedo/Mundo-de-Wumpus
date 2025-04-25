@@ -17,8 +17,7 @@ Neste jogo, você assume o papel de um explorador em uma caverna 4x4 (podendo al
 - [Como Jogar](#🎮-como-jogar)
 - [Arquitetura do Sistema](#🏗️-arquitetura-do-sistema)
 - [Regras de Conhecimento](#🧠-regras-de-conhecimento)
-- [Roadmap](#✨-roadmap)
-- [Contribuição](#🤝-contribuição)
+- [Melhorias Planejadas](#✨-melhorias-planejadas)
 
 ## ⚙️ Instalação e Execução
 
@@ -111,7 +110,7 @@ def caverna_ouro(self):
 | ![image](https://github.com/user-attachments/assets/6a35b007-e80f-45e8-8f95-35b92cc244b3) | 🏹 Flechas restantes e status do ouro (💰/❌)        |
 | ![image](https://github.com/user-attachments/assets/66015f8e-eb42-45a5-8799-3f08faada8ae) | 🔍 Condição da caverna atual (⚠️ Seguro/Perigoso)   |
 
-### ✨ Melhorias Planejadas
+## ✨ Melhorias Planejadas
 - [ ] Interface gráfica
 
 - [ ] Agente autônomo que joga sozinho
