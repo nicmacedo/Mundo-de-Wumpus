@@ -43,15 +43,15 @@ Neste jogo, você assume o papel de um explorador em uma caverna 4x4 (podendo al
 ## 🎮 Como Jogar
 
 ### 🕹️ Comandos Disponíveis
-| Comando  | Descrição                                                                 | Exemplo                     |
-|----------|---------------------------------------------------------------------------|-----------------------------|
-| `mover`  | Move o agente na direção atual                                            | `mover direita`             |
-| `girar`  | Altera a direção do agente                                                | `girar cima`                |
-| `pegar`  | Coleta o ouro se estiver na mesma posição                                 | `pegar`                     |
-| `atirar` | Dispara uma flecha (você tem apenas 1!)                                   | `atirar esquerda`           |
-| `mapa`   | Mostra o mapa revelado até o momento                                      | `mapa`                      |
-| `ajuda`  | Mostra esta lista de comandos                                             | `ajuda`                     |
-| `sair`   | Encerra o jogo                                                            | `sair`                      |
+| Comando  | Descrição                                                                 |
+|----------|---------------------------------------------------------------------------|
+| `mover`  | Move o agente na direção atual                                            | 
+| `girar`  | Altera a direção do agente                                                | 
+| `pegar`  | Coleta o ouro se estiver na mesma posição                                 | 
+| `atirar` | Dispara uma flecha (você tem apenas 1!)                                   | 
+| `mapa`   | Mostra o mapa revelado até o momento                                      | 
+| `ajuda`  | Mostra esta lista de comandos                                             | 
+| `sair`   | Encerra o jogo                                                            | 
 
 ### 🎯 Objetivo
 Encontre o ouro na caverna e volte para a saída (posição [0,0]) sem:
