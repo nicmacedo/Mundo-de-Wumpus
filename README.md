@@ -13,11 +13,11 @@ Neste jogo, você assume o papel de um explorador em uma caverna 4x4 (podendo al
 - 💰 O valioso ouro dourado
 
 ## 📋 Índice
-- [Instalação e Execução](#⚙️-instalação-e-execução)
-- [Como Jogar](#🎮-como-jogar)
-- [Arquitetura do Sistema](#🏗️-arquitetura-do-sistema)
-- [Regras de Conhecimento](#🧠-regras-de-conhecimento)
-- [Melhorias Planejadas](#✨-melhorias-planejadas)
+- [Instalação e Execução](#⚙️-Instalação-e-Execução)
+- [Como Jogar](#🎮-Como-Jogar)
+- [Arquitetura do Sistema](#🏗️-Arquitetura-do-Sistema)
+- [Regras de Conhecimento](#🧠-Regras-de-Conhecimento)
+- [Melhorias Planejadas](#✨-Melhorias-Planejadas)
 
 ## ⚙️ Instalação e Execução
 
